@@ -1134,5 +1134,6 @@ if __name__ == "__main__":
 by GeorgeZip
 (formerly known as: AI Signal Trend)
 Donate Me: https://zrzutka.pl/jbg3fz
-    """)
+           https://suppi.pl/georgezip
+""")
     asyncio.run(main())
