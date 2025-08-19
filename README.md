@@ -12,6 +12,7 @@
 by GeorgeZip
 
 Donate Me: https://zrzutka.pl/jbg3fz
+           https://suppi.pl/georgezip
 ```
 
 ## Overview
