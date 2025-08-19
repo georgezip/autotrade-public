@@ -137,8 +137,8 @@ Press `Ctrl + Esc` to gracefully shut down (closes connections, saves logs). `Ct
 
 ## Donations
 
-Support the developer: [Donate Here](https://zrzutka.pl/jbg3fz)
-                       [Donate Here](https://suppi.pl/georgezip)
+Support the developer: on zrzutka.pl [Donate Here](https://zrzutka.pl/jbg3fz) 
+                       or suppi.pl [Donate Here](https://suppi.pl/georgezip)
 
 
 
