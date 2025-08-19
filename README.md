@@ -138,6 +138,9 @@ Press `Ctrl + Esc` to gracefully shut down (closes connections, saves logs). `Ct
 ## Donations
 
 Support the developer: [Donate Here](https://zrzutka.pl/jbg3fz)
+                       [Donate Here](https://suppi.pl/georgezip)
+
+
 
 ## License
 
